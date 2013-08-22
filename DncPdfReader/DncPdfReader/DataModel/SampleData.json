@@ -1,0 +1,34 @@
+{
+ "Groups":[
+  {
+    "UniqueId": "Group-1",
+    "FileName": "Open File",
+    "FilePath": "Open an existing PDF file",
+    "ImagePath": "Assets/DarkGray.png",
+    "Items":[{
+        "UniqueId": "Group-1-Item-1",
+        "PageNumber": "Item FileName: 1",
+        "ImagePath": "Assets/LightGray.png"
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "PageNumber": "Item FileName: 1",
+        "ImagePath": "Assets/DarkGray.png"
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "PageNumber": "Item FileName: 1",
+        "ImagePath": "Assets/MediumGray.png"
+      },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "PageNumber": "Item FileName: 1",
+        "ImagePath": "Assets/DarkGray.png"
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "PageNumber": "Item FileName: 1",
+        "ImagePath": "Assets/MediumGray.png"
+      }]
+  }]
+}
